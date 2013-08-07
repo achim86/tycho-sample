@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+	<bundle id="org.springframework.osgi.extender" version="0.0.0">
+		<category name="spring" />
+	</bundle>
+	<bundle id="org.springframework.osgi.core" version="0.0.0">
+		<category name="spring" />
+	</bundle>
+	<bundle id="org.springframework.osgi.io" version="0.0.0">
+		<category name="spring" />
+	</bundle>
+	
+	<category-def name="spring" label="Spring OSGi-Bundles" />
+</site>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+	<feature url="./../sample.feature/target/sample.feature-1.0.0-SNAPSHOT.jar" id="sample.feature" version="1.0.0.qualifier">
+      <category name="sample-features"/>
+   </feature>
+	
+	<category-def name="sample-features" label="Sample Eclipse features" />
+</site>
