@@ -4,3 +4,24 @@
 *.jar
 *.war
 *.ear
+
+# Mac
+.DS_Store
+
+# Maven
+target
+
+# Eclipse
+.metadata
+.checkstyle
+.classpath
+.pmd
+.project
+.ruleset
+.settings
+
+# IntelliJ IDEA
+*.i??
+
+#emacs
+*~
