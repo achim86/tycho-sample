@@ -11,7 +11,7 @@ The project consists of several sub-projects (which should be built in the given
 
 Problem
 ------------
-See [Thread on Stackoverflow](http://stackoverflow.com/questions/17855554/installable-units-are-missing-in-p2-repository-so-that-tycho-p2-director-fails).
+See [Tycho Bugzilla](https://bugs.eclipse.org/bugs/show_bug.cgi?id=414579).
 
 Error
 ------------
