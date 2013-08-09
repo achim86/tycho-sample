@@ -21,7 +21,7 @@ target
 .settings
 
 # IntelliJ IDEA
-*.i??
+*.iml
 
 #emacs
 *~
